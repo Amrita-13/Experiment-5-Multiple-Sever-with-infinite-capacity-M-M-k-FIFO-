@@ -103,7 +103,7 @@ print("-----------------------------------------------------")
 ```
 Colab link:https://colab.research.google.com/drive/1lSYlz-lhbXfJOBogD2m_wxrnLkdpfbM5?usp=sharing
 # Output
-<img width="708" height="347" alt="image" src="https://github.com/user-attachments/assets/fc8b0fa2-4d6d-4d13-b6ca-7c7c58620af7" />
+<img width="708" height="347" alt="image" src="https://github.com/user-attachments/assets/b9fed3d0-cfb1-413d-8bd8-f91a6a89ec91" />
 
 # Result
        The average number of material in the system and in the conveyor and waiting are  successfully found.
